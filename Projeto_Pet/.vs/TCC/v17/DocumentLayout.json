@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D18E21-0DF9-4E66-9973-73003AC9DB4E}|TCC\\Projeto_Pet.csproj|c:\\users\\alexia\\desktop\\tcc\\projeto_pet\\tcc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D18E21-0DF9-4E66-9973-73003AC9DB4E}|TCC\\Projeto_Pet.csproj|solutionrelative:tcc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D18E21-0DF9-4E66-9973-73003AC9DB4E}|TCC\\TCC.csproj|C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\tcc\\views\\cliente\\produtosdacompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80D18E21-0DF9-4E66-9973-73003AC9DB4E}|TCC\\TCC.csproj|solutionrelative:tcc\\views\\cliente\\produtosdacompra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D18E21-0DF9-4E66-9973-73003AC9DB4E}|TCC\\TCC.csproj|C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\tcc\\vendor\\fontawesome-free\\css\\all.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{80D18E21-0DF9-4E66-9973-73003AC9DB4E}|TCC\\TCC.csproj|solutionrelative:tcc\\vendor\\fontawesome-free\\css\\all.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D18E21-0DF9-4E66-9973-73003AC9DB4E}|TCC\\TCC.csproj|C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\tcc\\dados\\accarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D18E21-0DF9-4E66-9973-73003AC9DB4E}|TCC\\TCC.csproj|solutionrelative:tcc\\dados\\accarrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 417,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosDaCompra.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\TCC\\Views\\Cliente\\ProdutosDaCompra.cshtml",
+              "RelativeDocumentMoniker": "TCC\\Views\\Cliente\\ProdutosDaCompra.cshtml",
+              "ToolTip": "C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\TCC\\Views\\Cliente\\ProdutosDaCompra.cshtml",
+              "RelativeToolTip": "TCC\\Views\\Cliente\\ProdutosDaCompra.cshtml",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAADoBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T20:26:07.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "all.css",
+              "DocumentMoniker": "C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\TCC\\vendor\\fontawesome-free\\css\\all.css",
+              "RelativeDocumentMoniker": "TCC\\vendor\\fontawesome-free\\css\\all.css",
+              "ToolTip": "C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\TCC\\vendor\\fontawesome-free\\css\\all.css",
+              "RelativeToolTip": "TCC\\vendor\\fontawesome-free\\css\\all.css",
+              "ViewState": "AgIAAIIEAAAAAAAAAAAAAIwEAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-26T20:25:40.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\TCC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TCC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\TCC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TCC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T20:24:07.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "acCarrinho.cs",
+              "DocumentMoniker": "C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\TCC\\Dados\\acCarrinho.cs",
+              "RelativeDocumentMoniker": "TCC\\Dados\\acCarrinho.cs",
+              "ToolTip": "C:\\Users\\Alexia\\Desktop\\TCC\\Projeto_Pet\\TCC\\Dados\\acCarrinho.cs",
+              "RelativeToolTip": "TCC\\Dados\\acCarrinho.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:31:31.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
